@@ -1,0 +1,10 @@
+# Datos
+data/*.csv 
+# Entorno virtual
+.venv/ 
+
+# Cache de Python
+__pycache__/
+
+# Secretos
+.env
